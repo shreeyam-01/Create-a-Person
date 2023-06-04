@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create a Person", "Create a Person\Create a Person.csproj", "{0B537EA0-8E16-417A-AB68-2D3A76B3BEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B537EA0-8E16-417A-AB68-2D3A76B3BEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B537EA0-8E16-417A-AB68-2D3A76B3BEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B537EA0-8E16-417A-AB68-2D3A76B3BEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B537EA0-8E16-417A-AB68-2D3A76B3BEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {185D87FC-3DDA-4CC0-B2A2-8EA608314EB1}
+	EndGlobalSection
+EndGlobal
